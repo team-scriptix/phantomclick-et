@@ -477,4 +477,4 @@ PhantomClick is an educational and research tool designed for scam detection and
 
 ---
 
-*Last Updated: February 2026*
+*Last Updated: March 2026*
